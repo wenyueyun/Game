@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1145075046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f8a58579e52bae690e81bd456bef338
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Atlas/Common/common_icon_4.png
+- Assets/AssetBundle/Atlas/Common/common_icon_2.png
+- Assets/AssetBundle/Atlas/Common/common_icon_3.png
+- Assets/AssetBundle/Atlas/Common/common_quality_5.png
+- Assets/AssetBundle/Atlas/Common/common_btn_2.png
+- Assets/AssetBundle/Atlas/Common/common_quality_2.png
+- Assets/AssetBundle/Atlas/Common/common_btn_1.png
+- Assets/AssetBundle/Atlas/Common/common_btn_3.png
+- Assets/AssetBundle/Atlas/Common/common_asset_2.png
+- Assets/AssetBundle/Atlas/Common/common_icon_5.png
+- Assets/AssetBundle/Atlas/Common/common_quality_3.png
+- Assets/AssetBundle/Atlas/Common/common_bg_1.png
+- Assets/AssetBundle/Atlas/Common/common_asset_1.png
+- Assets/AssetBundle/Atlas/Common/common_icon_6.png
+- Assets/AssetBundle/Atlas/Common/common_quality_4.png
+- Assets/AssetBundle/Atlas/Common/common_bg_2.png
+- Assets/AssetBundle/Atlas/Common/common_icon_1.png
+- Assets/AssetBundle/Atlas/Common/common_transparent.png
+- Assets/AssetBundle/Atlas/Common/common_quality_1.png
+Dependencies: []

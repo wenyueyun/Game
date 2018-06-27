@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 337123544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 416da580a9bfb4f7fa76da94083cafa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Atlas/Login/login_name.png
+- Assets/AssetBundle/Atlas/Login/login_password.png
+- Assets/AssetBundle/Atlas/Login/login_mail.png
+Dependencies: []

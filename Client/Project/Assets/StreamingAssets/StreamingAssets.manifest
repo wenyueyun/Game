@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 931516865
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas/common
+      Dependencies: {}
+    Info_1:
+      Name: atlas/login
+      Dependencies: {}
+    Info_2:
+      Name: audio/music_bg_0
+      Dependencies: {}
+    Info_3:
+      Name: audio/sound_dodge
+      Dependencies: {}
+    Info_4:
+      Name: model/mx_2_01_01_01
+      Dependencies: {}
+    Info_5:
+      Name: ui/loginui
+      Dependencies:
+        Dependency_0: atlas/common
+    Info_6:
+      Name: map/map1010
+      Dependencies: {}
+    Info_7:
+      Name: config/data
+      Dependencies: {}

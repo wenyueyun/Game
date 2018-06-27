@@ -1,0 +1,47 @@
+﻿[
+  {
+    "path": "StreamingAssets",
+    "md5": "1579f21bb0cf2bfcd5c3553cef512918",
+    "size": 1228
+  },
+  {
+    "path": "atlas/common",
+    "md5": "835006b6717070effb73a6e3f0a84aeb",
+    "size": 17122
+  },
+  {
+    "path": "atlas/login",
+    "md5": "f60420eed7c867eda285b86f25e84bdb",
+    "size": 5244
+  },
+  {
+    "path": "audio/music_bg_0",
+    "md5": "30334a29a53cc7d534dbc3638499f118",
+    "size": 503686
+  },
+  {
+    "path": "audio/sound_dodge",
+    "md5": "eafca6d391b0d20fe1c054febe54ce35",
+    "size": 7063
+  },
+  {
+    "path": "config/data",
+    "md5": "2cbd06ff9023a4a969ea156fe7e9b8c9",
+    "size": 8937
+  },
+  {
+    "path": "map/map1010",
+    "md5": "1bd58dbd76572246539421db52299c51",
+    "size": 23973
+  },
+  {
+    "path": "model/mx_2_01_01_01",
+    "md5": "491e0bf09ec6a3e2f41de94782812434",
+    "size": 128890
+  },
+  {
+    "path": "ui/loginui",
+    "md5": "c78db6225065476274374ad3cb902d54",
+    "size": 925053
+  }
+]

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Player>
+    <id>1</id>
+    <name>一一</name>
+    <age>10,1</age>
+  </Player>
+  <Player>
+    <id>2</id>
+    <name>二二</name>
+    <age>20,2</age>
+  </Player>
+  <Player>
+    <id>3</id>
+    <name>三三</name>
+    <age>30,3</age>
+  </Player>
+  <Player>
+    <id>4</id>
+    <name>四四</name>
+    <age>40,4</age>
+  </Player>
+  <Player>
+    <id>5</id>
+    <name>五五</name>
+    <age>50,4</age>
+  </Player>
+</root>

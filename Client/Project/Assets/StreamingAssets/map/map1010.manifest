@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1033323647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4df1be87309214f87bf7d16ba5504bba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05f16621d1ec37978be9a7a48b394302
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79e2e5664bed04e44a47ae9c7f889bbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: daf30884cf366f94da16d8d4db7e4947, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4354a87883fd7c4488bad6820e74ec9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6133c2c7f0e0572448c9c41741b5b7b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a32546bc8bf56644db86cc0c28b79b0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06c315c5ab2778541be7fab2df5991fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85543bacfc1474a458409a6d5b672581, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06a04d2a5fcef69428996c12fff80563, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6efa51eeb3cc524c84be40b9c7c1ffc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf1c96b2a3596642a1bbf449dbd2e5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc2fabdd6e3332c4fbd8e13fcae84dfd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbc2d847268b98244b0cba121bc2ec35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fa6e3c46c1f714409d1293a979db86e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 478ccab7a11d58943b304eb4d7c94dd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af7d8c83e5c4ce84b864d63b20c99021, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25a389ca0c4da164dbd3c1c18e71be72, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74306d0efe7ff1c4cb990c093004941d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd6960030e85e24295fa3746f63186b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26f37443f1003bd4695f959401e762d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73a4a1aa7fb01da4ab2630f2ada35327, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47224f306ff35b249892812506537b57, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Map/Map1010.prefab
+Dependencies: []

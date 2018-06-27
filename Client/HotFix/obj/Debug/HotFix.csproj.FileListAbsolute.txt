@@ -1,0 +1,5 @@
+E:\Unity\Game\Client\Project\Assets\Prefab\HotFix.dll
+E:\Unity\Game\Client\Project\Assets\Prefab\HotFix.pdb
+E:\Unity\Game\Client\HotFix\obj\Debug\HotFix.csprojResolveAssemblyReference.cache
+E:\Unity\Game\Client\HotFix\obj\Debug\HotFix.dll
+E:\Unity\Game\Client\HotFix\obj\Debug\HotFix.pdb

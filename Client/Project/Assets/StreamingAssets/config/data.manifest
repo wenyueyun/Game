@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3421994756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3437aa3b8025df2e1aa2a7c55d6f5e5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Config/dramaConfig.bytes
+Dependencies: []
